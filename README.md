@@ -1,3 +1,3 @@
-Estudos sobre o NodeJS
+Estudos sobre o JavaScript
 
-Tudo que envolver atividades com o node irá se encontrar nesse repositório.
+Tudo que envolver atividades com o JS irá se encontrar nesse repositório.
